@@ -1,0 +1,2 @@
+to catch an error rose withing a function using a logger use below decorator >
+@logger.catch(level="CRITICAL")
